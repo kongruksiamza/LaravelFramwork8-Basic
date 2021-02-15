@@ -10,7 +10,7 @@
 
 ## KongRuksiam Official
 - [ติดตามผ่านช่อง Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
-- [วิดีโอสอนเนื้อหา Laravel Framework เบื้องต้น](https://www.youtube.com/watch?v=nswjmJBTvZo&list=PLltVQYLz1BMCElB-Vtjb79DtlN2jPkHwV)
+- [วิดีโอสอนเนื้อหา Laravel Framework เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMCElB-Vtjb79DtlN2jPkHwV)
 
 ## สารบัญเนื้อหา
 
