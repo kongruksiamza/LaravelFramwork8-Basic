@@ -14,14 +14,60 @@
 
 ## สารบัญเนื้อหา
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/)**
-- **[OP.GG](https://op.gg)**
+- **[เตรียมเครื่องมือ]()**
+- **[สร้างโปรเจค]()**
+- **[รู้จักกับ MVC]()**
+- **[หน้าที่ของโฟลเดอร์และไฟล์]()**
+- **[การสร้าง Route]()**
+- **[Dynamic Route]()**
+- **[การสร้าง View]()**
+- **[Blade Template]()**
+- **[การสร้าง Controller]()**
+- **[จัดการ Link และ URL]()**
+- **[ส่งค่าจาก Controller ไป View]()**
+- **[ ส่งค่าด้วยฟังก์ชั่น Compact]()**
+- **[ส่งค่าด้วยฟังก์ชั่น With]()**
+- **[Middleware]()**
+- **[ เชื่อมต่อฐานข้อมูล]()**
+- **[JetStream / Authentication]()**
+- **[สอบถามข้อมูลแบบ Eloquent]()**
+- **[แสดงข้อมูลในตาราง]()**
+- **[diffForHumans]()**
+- **[แสดงจำนวนผู้ใช้]()**
+- **[สอบถามข้อมูลแบบ Query Builder]()**
+- **[สร้างโมเดล (Model)]()**
+- **[ สร้าง View Department]()**
+- **[สร้างแบบฟอร์ม]()**
+- **[ตรวจสอบความถูกต้องของข้อมูล]()**
+- **[ปรับแต่ง Error Message]()**
+- **[บันทึกข้อมูลแบบ Eloquent]()**
+- **[เช็คการเพิ่มข้อมูลซ้ำ]()**
+- **[บันทึกข้อมูลแบบ Query Builder]()**
+- **[ดึงข้อมูลแบบ Eloquent]()**
+- **[ดึงข้อมูลแบบ Query Builder]()**
+- **[กำหนดหมายเลขหน้าแบบ Eloquent]()**
+- **[แก้ปัญหาการแสดงเลขลำดับ]()**
+- **[กำหนดหมายเลขหน้าแบบ Query Builder]()**
+- **[กำหนดสิทธิ์เข้าถึงข้อมูลด้วย Middleware]()**
+- **[เชื่อมตารางแบบ Eloquent]()**
+- **[เชื่อมตารางแบบ  Query Builder]()**
+- **[แก้ไขข้อมูลแบบ Eloquent]()**
+- **[แบบฟอร์มแก้ไขข้อมูล]()**
+- **[อัพเดตข้อมูล]()**
+- **[ลบข้อมูลแบบ SoftDelete]()**
+- **[onlyTrash]()**
+- **[การกู้คืนข้อมูล (Restore)]()**
+- **[ จัดการ Trash]()**
+- **[ลบข้อมูลถาวรด้วย ForceDelete]()**
+- **[สร้างโมเดล Service]()**
+- **[สร้าง ServiceController]()**
+- **[แบบฟอร์ม Service]()**
+- **[ ตรวจสอบข้อมูล Service]()**
+- **[การเข้ารหัสรูปภาพ]()**
+- **[การอัพโหลดภาพ]()**
+- **[แสดงภาพใน View]()**
+- **[แบบฟอร์มแก้ไขข้อมูล]()**
+- **[Validate Service]()**
+- **[อัพเดตชื่อและรูปภาพ]()**
+- **[ลบข้อมูล Service]()**
+- **[ลบข้อมูลแบบ Confirm]()**
